@@ -1,6 +1,5 @@
 # 💫 About Me:
-I’m Nayan. I live in India, I am a dynamic Full Stack Engineer with a varied range of experiences. My journey was marked by continuous learning, problem-solving, and passion for creating impactful solutions.<br>I believe tech stack are just  tools to solve a problem, I am believer of first principles of computer science.   <br><br>I am excited to embrace new challenges and contribute to innovative products in ever-evolving world of software development.
-
+I'm just an Engineering. My journey was marked by continuous learning, problem-solving, and passion for creating impactful solutions.<br>I believe tech stack are just  tools to solve a problem, I am believer of first principles of computer science.   <br><br>I am excited to embrace new challenges and contribute to innovative products in ever-evolving world of software development.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/nayanraj-adhikary) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nayanraj210401) 
