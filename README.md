@@ -10,7 +10,7 @@ I'm just an Engineering. My journey was marked by continuous learning, problem-s
 > Every language is a tool to communicated to Computer based Systems. My Life revolves around building systems. Everything is a learnable skill. 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nayanraj210401&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=nayanraj210401&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
